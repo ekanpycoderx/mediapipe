@@ -73,7 +73,7 @@ start building example applications in
 [iOS](https://google.github.io/mediapipe/getting_started/ios).
 
 The source code is hosted in the
-[MediaPipe Github repository](https://github.com/google/mediapipe), and you can
+[MediaPipe Github repository](https://github.com/google/mediapipe) , and you can
 run code search using
 [Google Open Source Code Search](https://cs.opensource.google/mediapipe/mediapipe).
 
